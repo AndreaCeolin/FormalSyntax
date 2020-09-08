@@ -1,0 +1,70 @@
+Language,Label ,Glottocode,Iso 639-3 Code,Top-level family,Family,Location,Latitude,Longitude
+Afrikaans,Afk,afri1274,afr,Indo-European,Germanic,Cape Town,-22,30
+Archi,Arc,arch1244,aqc,Caucasian,Nakh-Daghestanian,Machačkala,42.01,47.26
+Barese,BA,pugl1238,nap,Indo-European,Romance,Bari,41.11,16.87
+Basque_Central,cB,guip1235,eus,Basque,Guipuzcoan,Vitoria-Gasteiz,42.85,-2.68
+Basque_Western,wB,bisc1236,eus,Basque,Biskayan,Bilbao,43.26,-2.93
+Bulgarian,Blg,bulg1262,bul,Indo-European,Slavic,Sofia,42.7,23.32
+Buryat,Bur,buri1258,bua,Mongolic,Eastern Mongolic ,Ulan-Ude,51.82,107.61
+Calabrese_Northern,NCA,sout3126,nap,Indo-European,Romance,Verbicaro,39.75,15.19
+Calabrese_Southern,SCA,sout2616,scn,Indo-European,Romance,Reggio Calabria,38.11,15.66
+Campano,Cam,napo1241,nap,Indo-European,Romance,S. Maria Capua Vetere,41.08,14.25
+Cantonese,Can,cant1236,yue,Sino-Tibetan,Sinitic,Hong Kong ,22.4,114.11
+Casalasco,CR,west2342,egl,Indo-European,Romance,Casalmaggiore,44.98,10.42
+Danish,Da,dani1285,dan,Indo-European,Germanic,Copenhagen,55.68,12.57
+Dutch,Du,dutc1256,nld,Indo-European,Germanic,Amsterdam,52.37,4.89
+English,E,stan1293,eng,Indo-European,Germanic,London,51.51,-0.13
+Estonian,Est,esto1258,ekk,Uralic,Finno-Ugric ,Tallinn,59.44,24.75
+Even_1,Ev1,even1260,eve,Tungusic,Northern Tungusic ,Kustur,67.79,130.4
+Even_2,Ev2,even1260,eve,Tungusic,Northern Tungusic ,Sebyan-Kyuyol ,65.29,130.01
+Evenki,Ek,even1259,evn,Tungusic,Nortwestern Tungusic,Bomnak,54.71,128.86
+Faroese,Fa,faro1244,fao,Indo-European,Germanic,Tórshavn,62.01,-6.77
+Finnish,Fin,finn1318,fin,Uralic,Finno-Ugric ,Helsinki,60.17,24.94
+French,Fr,stan1290,fra,Indo-European,Romance,Paris,48.86,2.35
+German,D,stan1295,deu,Indo-European,Germanic,Berlin,52.52,13.4
+Greek,Grk,mode1248,ell,Indo-European,Hellenic,Athens,37.98,23.73
+Greek_Calabria_1,CG1,aspr1238,ell,Indo-European,Hellenic,Bova,37.99,15.92
+Greek_Calabria_2,CG2,aspr1238,ell,Indo-European,Hellenic,Bova Marina,37.93,15.55
+Greek_Cypriot,CyG,cypr1249,ell,Indo-European,Hellenic,Larnaca,34.09,33.62
+Greek_Salento,SaG,apul1237,ell,Indo-European,Hellenic,Calimera,40.24,18.27
+Hindi,Hi,hind1269,hin,Indo-European,Indo-Aryan,New Delhi,28.61,77.21
+Hungarian,Hu,hung1274,hun,Uralic,Finno-Ugric ,Budapest,47.5,19.04
+Icelandic,Ice,icel1247,isl,Indo-European,Germanic,Reykjavik,64.14,-21.94
+Irish,Ir,iris1253,gle,Indo-European,Celtic,Dublin,53.35,-6.26
+Italian,It,ital1282,ita,Indo-European,Romance,Rome,41.9,12.5
+Japanese,Jap,nucl1643,jpn,Japonic,isolate,Tokyo ,35.69,139.69
+Kazakh,Kaz,kaza1248,kaz,Turkic,Kipchak,Almaty,43.22,76.85
+Khanty_1,Kh1,khan1279,kca,Uralic,Finno-Ugric ,Kazym,63.7,67.24
+Khanty_2,Kh2,khan1279,kca,Uralic,Finno-Ugric ,Kazym,63.7,67.24
+Korean,Kor,kore1280,kor,Koreanic,,Seul ,37.57,126.98
+Kirghiz,Kyr,kirg1245,kir,Turkic,Kipchak,Bishkek,42.87,74.57
+Lak,Lak,lakk1252,lbe,Caucasian,Nakh-Daghestanian,Kumukh,42.54,47.89
+Malagasy,Mal,plat1254,plt,Austronesian,Malayo-Polinesian,Antananarivo,18.88,47.51
+Mandarin,Man,mand1415,cmn,Sino-Tibetan,Sinitic,Beijing ,39.9,116.41
+Marathi,Ma,mara1378,mar,Indo-European,Indo-Aryan,Mumbai,19.08,72.88
+Mari_1,mM1,mari1278,chm,Uralic,Mari,Shap,56.44,47.96
+Mari_2,mM2,mari1278,chm,Uralic,Mari,Shap,56.44,47.96
+Norwegian,Nor,norw1258,nor,Indo-European,Germanic,Oslo,59.91,10.75
+Parma,PR,cent1959,egl,Indo-European,Romance,Parma,44.8,10.32
+Pashto,Pas,pash1269,pus,Indo-European,Indo-Aryan,Khyber Pass,34.09,71.16
+Polish,Po,poli1260,pol,Indo-European,Slavic,Warsaw,52.23,21.01
+Portuguese,Ptg,port1283,por,Indo-European,Romance,Lisbon,38.72,-9.1
+Reggio_Emilia,RE_1,cent1959,egl,Indo-European,Romance,Reggio Emilia,44.7,10.63
+Romanian,Rm,roma1327,ron,Indo-European,Romance,Bucharest,44.43,26.1
+Russian,Rus,russ1263,rus,Indo-European,Slavic,Moscow,55.76,37.62
+Salentino,Sal,pugl1238,scn,Indo-European,Romance,Cellino San Marco,40.47,17.96
+Serbo-Croatian,SC,sout1528,hbs,Indo-European,Slavic,Zagreb,45.82,15.98
+Siciliano_Mussomeli,MsS,cent1963,scn,Indo-European,Romance,Mussomeli,37.57,13.75
+Siciliano_Ragusa,RGS,sout2617,scn,Indo-European,Romance,Ragusa,36.92,14.72
+Slovenian,Slo,slov1268,slv,Indo-European,Slavic,Ljubljana,46.06,14.51
+Spanish,Sp,stan1288,spa,Indo-European,Romance,Madrid,40.42,-3.7
+Tamil,Ta,tami1289,tam,Dravidian ,Indo-Aryan,Madras ,13.08,80.27
+Telugu,Te,telu1262,tel,Dravidian,Indo-Aryan,Hyderabad,17.39,78.49
+Teramano,Ter,neap1235,nap,Indo-European,Romance,Teramo,42.66,13.7
+Turkish,Tur,nucl1301,tur,Turkic,Oghuz,Ankara,39.93,32.86
+Udmurt_1,Ud1,udmu1245,udm,Uralic,Permian,Chur,57.07,53.03
+Udmurt_2,Ud2,udmu1245,udm,Uralic,Permian,Chur,57.07,53.03
+Uzbek,Uz,uzbe1247,uzb,Turkic,Turkestan Turkic,Tashkent,41.3,69.24
+Welsh,Wel,wels1247,cym,Indo-European,Celtic,Cardiff,51.48,-3.18
+Yakut,Ya,yaku1245,sah,Turkic,North Siberian Turkic,Jakutsk,62.04,129.68
+Yukaghir,Yu,yuka1259,yux,Yukaghir,Kolmic (Southern Yukaghir),Kolyma,65.5,151.09
