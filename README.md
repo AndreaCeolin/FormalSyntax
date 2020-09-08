@@ -1,5 +1,7 @@
 # Formal Syntax and Deep History
-Scripts and data from the paper "Ceolin, A., Guardiano, C., Irimia, M. A., & Longobardi, G. (2020). Formal syntax and deep history. Frontiers in Psychology, 11, 2384". The repository contains the following files:
+Scripts and data from the paper "Ceolin, A., Guardiano, C., Irimia, M. A., & Longobardi, G. (2020). Formal syntax and deep history. Frontiers in Psychology, 11, 2384". 
+
+The repository contains the following files:
 
 1. **table.txt**: this file contains the name of the languages and their 94 associated features (with values '1', '0', '?'), separated by a tab. 
 
