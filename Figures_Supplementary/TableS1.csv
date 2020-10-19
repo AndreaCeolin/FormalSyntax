@@ -46,7 +46,7 @@ Mari_1,mM1,mari1278,chm,Uralic,Mari,Shap,56.44,47.96
 Mari_2,mM2,mari1278,chm,Uralic,Mari,Shap,56.44,47.96
 Norwegian,Nor,norw1258,nor,Indo-European,Germanic,Oslo,59.91,10.75
 Parma,PR,cent1959,egl,Indo-European,Romance,Parma,44.8,10.32
-Pashto,Pas,pash1269,pus,Indo-European,Indo-Aryan,Khyber Pass,34.09,71.16
+Pashto,Pas,pash1269,pus,Indo-European,Iranian,Khyber Pass,34.09,71.16
 Polish,Po,poli1260,pol,Indo-European,Slavic,Warsaw,52.23,21.01
 Portuguese,Ptg,port1283,por,Indo-European,Romance,Lisbon,38.72,-9.1
 Reggio_Emilia,RE,cent1959,egl,Indo-European,Romance,Reggio Emilia,44.7,10.63
@@ -58,8 +58,8 @@ Siciliano_Mussomeli,MsS,cent1963,scn,Indo-European,Romance,Mussomeli,37.57,13.75
 Siciliano_Ragusa,RGS,sout2617,scn,Indo-European,Romance,Ragusa,36.92,14.72
 Slovenian,Slo,slov1268,slv,Indo-European,Slavic,Ljubljana,46.06,14.51
 Spanish,Sp,stan1288,spa,Indo-European,Romance,Madrid,40.42,-3.7
-Tamil,Ta,tami1289,tam,Dravidian ,Indo-Aryan,Madras ,13.08,80.27
-Telugu,Te,telu1262,tel,Dravidian,Indo-Aryan,Hyderabad,17.39,78.49
+Tamil,Ta,tami1289,tam,Dravidian ,Dravidian,Madras ,13.08,80.27
+Telugu,Te,telu1262,tel,Dravidian,Dravidian,Hyderabad,17.39,78.49
 Teramano,Ter,neap1235,nap,Indo-European,Romance,Teramo,42.66,13.7
 Turkish,Tur,nucl1301,tur,Turkic,Oghuz,Ankara,39.93,32.86
 Udmurt_1,Ud1,udmu1245,udm,Uralic,Permian,Chur,57.07,53.03

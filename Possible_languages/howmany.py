@@ -114,7 +114,7 @@ def check(P):
            [FGN, FGP == "+"],
            [GCO, FGM == '+' and FGN != "+"],
            [PLS, FGM == "+" and FGN != "+"],
-           [FSN, FGN == "+"],
+           [FSN, FGN == "+"],  #10
            [FNN, FSN == "+"],
            [FGT, True],
            [FGG, FGN == "+"],
