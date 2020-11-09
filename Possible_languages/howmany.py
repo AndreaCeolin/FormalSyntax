@@ -10,7 +10,7 @@ def check(P):
         P = P + '?'
     x = [P[0]]
     FGM = P[1]
-    FAG = P[2]
+    FGA = P[2]
     FGK = P[3]
     SPK = P[4]
     FGP = P[5]
@@ -72,13 +72,13 @@ def check(P):
     LKP = P[61]
     LKO = P[62]
     FFP = P[63]
-    NOP = P[64]
+    NUP = P[64]
     PNP = P[65]
-    NOD = P[66]
-    NOC = P[67]
+    NUD = P[66]
+    NUC = P[67]
     NM1 = P[68]
     NM2 = P[69]
-    NOA = P[70]
+    NUA = P[70]
     NGO = P[71]
     EAF = P[72]
     ACM = P[73]
@@ -106,7 +106,7 @@ def check(P):
 
     #This list stores the conditional implications of the parameters
     par = [[FGM, True],
-           [FAG, FGM == "+"],
+           [FGA, FGM == "+"],
            [FGK, FGM == "+"],
            [SPK, FGK == "+"],
            [FGP, FGM == "+"],
@@ -169,20 +169,20 @@ def check(P):
            [LKP, True],
            [LKO, LKA == "-"],
            [FFP, FGN == "+" and (LKA == "+" or LKP =="+" or LKO =="+" or GAD =="+") and GFP != '+'],
-           [NOP, FGP == "+" and (CSE == "+" or LKA == "+" or LKO == "+")],
-           [PNP, FGP == "+" and (CSE =='-' or NOP == '-')],
-           [NOD, FGP == "+"],
-           [NOC, UST != "+" and PNP =="+" and NOD == "+"],
-           [NM1, NOC == "+"],
+           [NUP, FGP == "+" and (CSE == "+" or LKA == "+" or LKO == "+")],
+           [PNP, FGP == "+" and (CSE =='-' or NUP == '-')],
+           [NUD, FGP == "+"],
+           [NUC, UST != "+" and PNP =="+" and NUD == "+"],
+           [NM1, NUC == "+"],
            [NM2, NM1 == "+"],
-           [NOA, NM2 == "+"],
-           [NGO, PGO != "-" and NOA == "+"],
+           [NUA, NM2 == "+"],
+           [NGO, PGO != "-" and NUA == "+"],
            [EAF, NM1 == "-"],
            [ACM, ARR == "-" and NGO == "-"],
            [DSN, DCN == "+"],
-           [DSA, (DGR == "+" or DGP =="+") and (ARR =="+" or (NOA != "+" and PNP == "+"))],
-           [DOC, NWD=="-" and DCN=="+" and NOC=="+"],
-           [NEX, (FSN == "-" or CGR == "-") and NWD == "-" and NOA != "+"], #80
+           [DSA, (DGR == "+" or DGP =="+") and (ARR =="+" or (NUA != "+" and PNP == "+"))],
+           [DOC, NWD=="-" and DCN=="+" and NUC=="+"],
+           [NEX, (FSN == "-" or CGR == "-") and NWD == "-" and NUA != "+"], #80
            [PEX, NEX == "+"],
            [FEX, PEX =="+"] ,
            [PDC, DGR == "+" and (CGR == "+" or NWD == "-") and GFP != "+"],
