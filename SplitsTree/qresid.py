@@ -23,7 +23,7 @@ def main(file):
           str(min(q)))
     labels = ['Siciliano_Ragusa', 'Siciliano_Mussomeli', 'Calabrese_Southern', 'Salentino',
               'Calabrese_Northern', 'Barese', 'Campano', 'Teramano', 'Casalasco', 'Reggio_Emilia', 'Parma',
-              'Italian', 'Spanish', 'French', 'Portuguese', 'Romanian', 'Salento_Greek', 'Greek_Calabria_1',
+              'Italian', 'Spanish', 'French', 'Portuguese', 'Romanian', 'Greek_Salento', 'Greek_Calabria_1',
               'Greek_Calabria_2', 'Greek', 'Greek_Cypriot', 'English', 'Dutch', 'Afrikaans', 'German', 'Danish',
               'Icelandic', 'Faroese', 'Norwegian', 'Bulgarian', 'Serbo-Croatian', 'Slovenian', 'Polish', 'Russian',
               'Irish', 'Welsh', 'Marathi', 'Hindi', 'Pashto', 'Tamil', 'Telugu', 'Mandarin', 'Cantonese', 'Japanese',

@@ -16,8 +16,8 @@ def check(P):
     FGP = P[5]
     FSP = P[6]
     FGN = P[7]
-    GCO = P[8]
-    PLS = P[9]
+    SCO = P[8]
+    GDP = P[9]
     FSN = P[10]
     FNN = P[11]
     FGT = P[12]
@@ -112,8 +112,8 @@ def check(P):
            [FGP, FGM == "+"],
            [FSP, FGP != "+"],
            [FGN, FGP == "+"],
-           [GCO, FGM == '+' and FGN != "+"],
-           [PLS, FGM == "+" and FGN != "+"],
+           [SCO, FGM == '+' and FGN != "+"],
+           [GDP, FGM == "+" and FGN != "+"],
            [FSN, FGN == "+"],  #10
            [FNN, FSN == "+"],
            [FGT, True],

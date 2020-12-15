@@ -19,7 +19,7 @@ Id	Taxon	Delta Score 	Q-residual
 14	French	0.33224	0.05105
 15	Portuguese	0.28555	0.035588
 16	Romanian	0.31875	0.04454
-17	Salento_Greek	0.31396	0.046494
+17	Greek_Salento	0.31396	0.046494
 18	Greek_Calabria_1	0.31579	0.047742
 19	Greek_Calabria_2	0.31396	0.046494
 20	Greek	0.31835	0.054301
@@ -33,7 +33,7 @@ Id	Taxon	Delta Score 	Q-residual
 28	Faroese	0.30211	0.041031
 29	Norwegian	0.30219	0.038578
 30	Bulgarian	0.31691	0.034222
-31	Serbo_Croatian	0.29674	0.041886
+31	Serbo-Croatian	0.29674	0.041886
 32	Slovenian	0.29674	0.041886
 33	Polish	0.31269	0.042913
 34	Russian	0.29602	0.041547

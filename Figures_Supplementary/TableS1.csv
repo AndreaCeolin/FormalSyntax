@@ -1,6 +1,6 @@
 Language,Label ,Glottocode,Iso 639-3 Code,Top-level family,Family,Location,Latitude,Longitude
 Afrikaans,Afk,afri1274,afr,IE,Germanic,Cape Town,-33.91,18.42
-Archi,Arc,arch1244,aqc,Caucasian,Nakh-Daghestanian,Machačkala,42.01,47.26
+Archi,Arc,arch1244,aqc,NE Caucasian,-,Machačkala,42.01,47.26
 Barese,BA,pugl1238,nap,IE,Romance,Bari,41.11,16.87
 Basque_Central,cB,guip1235,eus,Basque,Guipuzcoan,Vitoria-Gasteiz,42.85,-2.68
 Basque_Western,wB,bisc1236,eus,Basque,Biskayan,Bilbao,43.26,-2.93
@@ -18,27 +18,27 @@ Estonian,Est,esto1258,ekk,Uralic,Finno-Ugric ,Tallinn,59.44,24.75
 Even_1,Ev1,even1260,eve,Tungusic,N Tungusic ,Kustur,67.79,130.4
 Even_2,Ev2,even1260,eve,Tungusic,N Tungusic ,Sebyan-Kyuyol ,65.29,130.01
 Evenki,Ek,even1259,evn,Tungusic,NW Tungusic,Bomnak,54.71,128.86
-Faroese,Fa,faro1244,fao,IE,Germanic,Tórshavn,62.01,-6.77
+Faroese,FO,faro1244,fao,IE,Germanic,Tórshavn,62.01,-6.77
 Finnish,Fin,finn1318,fin,Uralic,Finno-Ugric ,Helsinki,60.17,24.94
 French,Fr,stan1290,fra,IE,Romance,Paris,48.86,2.35
 German,D,stan1295,deu,IE,Germanic,Berlin,52.52,13.4
-Greek,Grk,mode1248,ell,IE,Hellenic,Athens,37.98,23.73
-Greek_Calabria_1,CG1,aspr1238,ell,IE,Hellenic,Bova,37.99,15.92
-Greek_Calabria_2,CG2,aspr1238,ell,IE,Hellenic,Bova Marina,37.93,15.55
-Greek_Cypriot,CyG,cypr1249,ell,IE,Hellenic,Larnaca,34.09,33.62
-Greek_Salento,SaG,apul1237,ell,IE,Hellenic,Calimera,40.24,18.27
+Greek,Grk,mode1248,ell,IE,Greek,Athens,37.98,23.73
+Greek_Calabria_1,CG1,aspr1238,ell,IE,Greek,Bova,37.99,15.92
+Greek_Calabria_2,CG2,aspr1238,ell,IE,Greek,Bova Marina,37.93,15.55
+Greek_Cypriot,CyG,cypr1249,ell,IE,Greek,Larnaca,34.09,33.62
+Greek_Salento,SaG,apul1237,ell,IE,Greek,Calimera,40.24,18.27
 Hindi,Hi,hind1269,hin,IE,Indo-Aryan,New Delhi,28.61,77.21
 Hungarian,Hu,hung1274,hun,Uralic,Finno-Ugric ,Budapest,47.5,19.04
 Icelandic,Ice,icel1247,isl,IE,Germanic,Reykjavik,64.14,-21.94
 Irish,Ir,iris1253,gle,IE,Celtic,Dublin,53.35,-6.26
 Italian,It,ital1282,ita,IE,Romance,Rome,41.9,12.5
-Japanese,Jap,nucl1643,jpn,Japonic,isolate,Tokyo ,35.69,139.69
+Japanese,Jap,nucl1643,jpn,Japonic,-,Tokyo ,35.69,139.69
 Kazakh,Kaz,kaza1248,kaz,Turkic,Kipchak,Almaty,43.22,76.85
 Khanty_1,Kh1,khan1279,kca,Uralic,Finno-Ugric ,Kazym,63.7,67.24
 Khanty_2,Kh2,khan1279,kca,Uralic,Finno-Ugric ,Kazym,63.7,67.24
-Korean,Kor,kore1280,kor,Koreanic,,Seul ,37.57,126.98
+Korean,Kor,kore1280,kor,Koreanic,-,Seul ,37.57,126.98
 Kirghiz,Kyr,kirg1245,kir,Turkic,Kipchak,Bishkek,42.87,74.57
-Lak,Lak,lakk1252,lbe,Caucasian,Nakh-Daghestanian,Kumukh,42.54,47.89
+Lak,Lak,lakk1252,lbe,NE Caucasian,-,Kumukh,42.54,47.89
 Malagasy,Mal,plat1254,plt,Austronesian,Malayo-Polinesian,Antananarivo,18.88,47.51
 Mandarin,Man,mand1415,cmn,Sino-Tibetan,Sinitic,Beijing ,39.9,116.41
 Marathi,Ma,mara1378,mar,IE,Indo-Aryan,Mumbai,19.08,72.88
@@ -58,8 +58,8 @@ Siciliano_Mussomeli,MsS,cent1963,scn,IE,Romance,Mussomeli,37.57,13.75
 Siciliano_Ragusa,RGS,sout2617,scn,IE,Romance,Ragusa,36.92,14.72
 Slovenian,Slo,slov1268,slv,IE,Slavic,Ljubljana,46.06,14.51
 Spanish,Sp,stan1288,spa,IE,Romance,Madrid,40.42,-3.7
-Tamil,Ta,tami1289,tam,Dravidian ,Dravidian,Madras ,13.08,80.27
-Telugu,Te,telu1262,tel,Dravidian,Dravidian,Hyderabad,17.39,78.49
+Tamil,Ta,tami1289,tam,Dravidian ,-,Madras ,13.08,80.27
+Telugu,Te,telu1262,tel,Dravidian,-,Hyderabad,17.39,78.49
 Teramano,Ter,neap1235,nap,IE,Romance,Teramo,42.66,13.7
 Turkish,Tur,nucl1301,tur,Turkic,Oghuz,Ankara,39.93,32.86
 Udmurt_1,Ud1,udmu1245,udm,Uralic,Permian,Chur,57.07,53.03

@@ -1,5 +1,5 @@
 #NEXUS
-[written Fri Nov 20 12:09:26 EST 2020 by Mesquite  version 3.51 (build 898) at Andreas-Air.hsd1.pa.comcast.net/10.1.10.177]
+[written Wed Dec 09 00:07:26 CET 2020 by Mesquite  version 3.51 (build 898) at Andreas-MacBook-Air.local/192.168.1.100]
 
 BEGIN TAXA;
 	TITLE Taxa;
@@ -94,7 +94,7 @@ Begin MESQUITE;
 		MESQUITESCRIPTVERSION 2;
 		TITLE AUTO;
 		tell ProjectCoordinator;
-		timeSaved 1605892166335;
+		timeSaved 1607468846876;
 		getEmployee #mesquite.minimal.ManageTaxa.ManageTaxa;
 		tell It;
 			setID 0 608764598328300478;
@@ -109,7 +109,7 @@ Begin MESQUITE;
 			setFontIncAnnot 0;
 			setFontIncExp 0;
 			setSize 1440 756;
-			setLocation 319 175;
+			setLocation 120 23;
 			setFont SanSerif;
 			setFontSize 10;
 			getToolPalette;
@@ -132,7 +132,7 @@ Begin MESQUITE;
 					setFontIncAnnot 0;
 					setFontIncExp 0;
 					setSize 1340 684;
-					setLocation 319 175;
+					setLocation 120 23;
 					setFont SanSerif;
 					setFontSize 10;
 					getToolPalette;
@@ -170,7 +170,7 @@ Begin MESQUITE;
 					setFontIncAnnot 0;
 					setFontIncExp 0;
 					setSize 1340 684;
-					setLocation 319 175;
+					setLocation 120 23;
 					setFont SanSerif;
 					setFontSize 10;
 					getToolPalette;
@@ -223,8 +223,8 @@ Begin MESQUITE;
 					endTell;
 				endTell;
 					setTreeNumber 1;
-					setTree '((69:1000,(((57:1000<color = 9 >,58:1000<color = 9 >):976<color = 9 >,((56:1000<color = 9 >,(54:1000<color = 9 >,55:1000<color = 9 >):993<color = 9 >):844<color = 9 >,((50:1000<color = 9 >,51:1000<color = 9 >):509<color = 9 >,(52:1000<color = 9 >,53:1000<color = 9 >):510<color = 9 >):983<color = 9 >):530<color = 9 >):828<color = 9 >,(68:1000,(67:1000,((64:1000,(65:1000,66:1000):342):1000,(59:1000,(63:1000,(62:1000,(60:1000,61:1000):330):909):872):953):661):540):826):891):756,((48:1000,49:1000):1000,((46:1000,47:1000):998,((44:1000,45:1000):1000,(((40:1000,41:1000):1000,(42:1000,43:1000):995):832,((1:1000<color = 14 >,2:1000<color = 14 >):1000<color = 14 >,(((38:1000<color = 14 >,39:1000<color = 6 >):529,((35:1000<color = 6 >,(36:1000<color = 6 >,37:1000<color = 6 >):994<color = 6 >):508<color = 6 >,((34:1000<color = 6 >,(32:1000<color = 6 >,33:1000<color = 6 >):997<color = 6 >):846<color = 6 >,((23:1000<color = 6 >,(26:1000<color = 6 >,(24:1000<color = 6 >,25:1000<color = 7 >):944<color = 6 >):850<color = 6 >):504<color = 6 >,(31:1000<color = 6 >,(30:1000<color = 6 >,(29:1000<color = 6 >,(27:1000<color = 6 >,28:1000<color = 6 >):954<color = 6 >):902<color = 6 >):552<color = 6 >):472<color = 6 >):660<color = 6 >):588<color = 6 >):571):284,(((3:1000<color = 13 >,4:1000<color = 13 >):998<color = 13 >,(5:1000<color = 13 >,(6:1000<color = 13 >,7:1000<color = 13 >):1000<color = 13 >):787<color = 13 >):971<color = 13 >,((8:1000<color = 11 >,9:1000<color = 11 >):1000<color = 11 >,((18:1000<color = 16 >,(22:1000<color = 16 >,(21:1000<color = 16 >,(19:1000<color = 16 >,20:1000<color = 16 >):950<color = 16 >):641<color = 16 >):975<color = 16 >):914<color = 16 >,((10:1000<color = 5 >,(13:1000<color = 5 >,(11:1000<color = 5 >,12:1000<color = 5 >):745<color = 5 >):961<color = 5 >):635<color = 5 >,(17:1000<color = 5 >,(14:1000<color = 5 >,(15:1000<color = 5 >,16:1000<color = 5 >):531<color = 5 >):822<color = 5 >):717<color = 5 >):908<color = 5 >):478):273):365):344):468):739):378):343):319)<> <> <  setBetweenLong = color >;';
-					setDrawingSizeMode 2 800 1000  -1 0;
+					setTree '((69:1000,(((57:1000<color = 9 >,58:1000<color = 9 >):976<color = 9 >,((56:1000<color = 9 >,(54:1000<color = 9 >,55:1000<color = 9 >):993<color = 9 >):844<color = 9 >,((50:1000<color = 9 >,51:1000<color = 9 >):509<color = 9 >,(52:1000<color = 9 >,53:1000<color = 9 >):510<color = 9 >):983<color = 9 >):530<color = 9 >):828<color = 9 >,(68:1000,(67:1000,((64:1000,(65:1000,66:1000):342):1000,(59:1000,(63:1000,(62:1000,(60:1000,61:1000):330):909):872):953):661):540):826):891):756,((48:1000,49:1000):1000,((46:1000,47:1000):998,((44:1000,45:1000):1000,(((40:1000,41:1000):1000,(42:1000,43:1000):995):832,((1:1000<color = 14 >,2:1000<color = 14 >):1000<color = 14 >,(((38:1000<color = 14 >,39:1000<color = 6 >):529,((35:1000<color = 6 >,(36:1000<color = 6 >,37:1000<color = 6 >):994<color = 6 >):508<color = 6 >,((34:1000<color = 6 >,(32:1000<color = 6 >,33:1000<color = 6 >):997<color = 6 >):846<color = 6 >,((23:1000<color = 6 >,(26:1000<color = 6 >,(24:1000<color = 6 >,25:1000<color = 6 >):944<color = 6 >):850<color = 6 >):504<color = 6 >,(31:1000<color = 6 >,(30:1000<color = 6 >,(29:1000<color = 6 >,(27:1000<color = 6 >,28:1000<color = 6 >):954<color = 6 >):902<color = 6 >):552<color = 6 >):472<color = 6 >):660<color = 6 >):588<color = 6 >):571):284,(((3:1000<color = 13 >,4:1000<color = 13 >):998<color = 13 >,(5:1000<color = 13 >,(6:1000<color = 13 >,7:1000<color = 13 >):1000<color = 13 >):787<color = 13 >):971<color = 13 >,((8:1000<color = 11 >,9:1000<color = 11 >):1000<color = 11 >,((18:1000<color = 16 >,(22:1000<color = 16 >,(21:1000<color = 16 >,(19:1000<color = 16 >,20:1000<color = 16 >):950<color = 16 >):641<color = 16 >):975<color = 16 >):914<color = 16 >,((10:1000<color = 5 >,(13:1000<color = 5 >,(11:1000<color = 5 >,12:1000<color = 5 >):745<color = 5 >):961<color = 5 >):635<color = 5 >,(17:1000<color = 5 >,(14:1000<color = 5 >,(15:1000<color = 5 >,16:1000<color = 5 >):531<color = 5 >):822<color = 5 >):717<color = 5 >):908<color = 5 >):478):273):365):344):468):739):378):343):319)<> <> <  setBetweenLong = color >;';
+					setDrawingSizeMode 2 800 1000  -1 2;
 					toggleLegendFloat on;
 					toggleTextOnTree off;
 					togglePrintName off;
