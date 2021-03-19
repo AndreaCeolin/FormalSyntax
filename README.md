@@ -1,7 +1,7 @@
 # Formal Syntax and Deep History
 Scripts and data from the paper:
 
-> Ceolin, A., Guardiano, C., Irimia, M. A., & Longobardi, G. (2020). Formal syntax and deep history. Frontiers in Psychology, 11, 2384.
+> Ceolin, A., Guardiano, C., Irimia, M. A., & Longobardi, G. (2020). Formal syntax and deep history. Frontiers in Psychology, 11, 2384. 11:488871. doi: 10.3389/fpsyg.2020.488871
 
 The code contained in this repository is licensed under MIT license. For the figures and the dataset, please refer to the journal policies.
 
