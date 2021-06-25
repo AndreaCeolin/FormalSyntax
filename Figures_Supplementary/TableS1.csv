@@ -14,12 +14,12 @@ Casalasco,CR,west2342,egl,IE,Romance,Casalmaggiore,44.98,10.42
 Danish,Da,dani1285,dan,IE,Germanic,Copenhagen,55.68,12.57
 Dutch,Du,dutc1256,nld,IE,Germanic,Amsterdam,52.37,4.89
 English,E,stan1293,eng,IE,Germanic,London,51.51,-0.13
-Estonian,Est,esto1258,ekk,Uralic,Finno-Ugric ,Tallinn,59.44,24.75
+Estonian,Est,esto1258,ekk,Uralic,Balto-Finnic,Tallinn,59.44,24.75
 Even_1,Ev1,even1260,eve,Tungusic,N Tungusic ,Kustur,67.79,130.4
 Even_2,Ev2,even1260,eve,Tungusic,N Tungusic ,Sebyan-Kyuyol ,65.29,130.01
 Evenki,Ek,even1259,evn,Tungusic,NW Tungusic,Bomnak,54.71,128.86
 Faroese,FO,faro1244,fao,IE,Germanic,Tórshavn,62.01,-6.77
-Finnish,Fin,finn1318,fin,Uralic,Finno-Ugric ,Helsinki,60.17,24.94
+Finnish,Fin,finn1318,fin,Uralic,Balto-Finnic,Helsinki,60.17,24.94
 French,Fr,stan1290,fra,IE,Romance,Paris,48.86,2.35
 German,D,stan1295,deu,IE,Germanic,Berlin,52.52,13.4
 Greek,Grk,mode1248,ell,IE,Greek,Athens,37.98,23.73
@@ -28,22 +28,22 @@ Greek_Calabria_2,CG2,aspr1238,ell,IE,Greek,Bova Marina,37.93,15.55
 Greek_Cypriot,CyG,cypr1249,ell,IE,Greek,Larnaca,34.09,33.62
 Greek_Salento,SaG,apul1237,ell,IE,Greek,Calimera,40.24,18.27
 Hindi,Hi,hind1269,hin,IE,Indo-Aryan,New Delhi,28.61,77.21
-Hungarian,Hu,hung1274,hun,Uralic,Finno-Ugric ,Budapest,47.5,19.04
+Hungarian,Hu,hung1274,hun,Uralic,Ugric,Budapest,47.5,19.04
 Icelandic,Ice,icel1247,isl,IE,Germanic,Reykjavik,64.14,-21.94
 Irish,Ir,iris1253,gle,IE,Celtic,Dublin,53.35,-6.26
 Italian,It,ital1282,ita,IE,Romance,Rome,41.9,12.5
 Japanese,Jap,nucl1643,jpn,Japonic,-,Tokyo ,35.69,139.69
 Kazakh,Kaz,kaza1248,kaz,Turkic,Kipchak,Almaty,43.22,76.85
-Khanty_1,Kh1,khan1279,kca,Uralic,Finno-Ugric ,Kazym,63.7,67.24
-Khanty_2,Kh2,khan1279,kca,Uralic,Finno-Ugric ,Kazym,63.7,67.24
-Korean,Kor,kore1280,kor,Koreanic,-,Seul ,37.57,126.98
+Khanty_1,Kh1,khan1279,kca,Uralic,Ugric,Kazym,63.7,67.24
+Khanty_2,Kh2,khan1279,kca,Uralic,Ugric,Kazym,63.7,67.24
+Korean,Kor,kore1280,kor,Koreanic,-,Seoul ,37.57,126.98
 Kirghiz,Kyr,kirg1245,kir,Turkic,Kipchak,Bishkek,42.87,74.57
 Lak,Lak,lakk1252,lbe,NE Caucasian,-,Kumukh,42.54,47.89
 Malagasy,Mal,plat1254,plt,Austronesian,Malayo-Polinesian,Antananarivo,18.88,47.51
 Mandarin,Man,mand1415,cmn,Sino-Tibetan,Sinitic,Beijing ,39.9,116.41
 Marathi,Ma,mara1378,mar,IE,Indo-Aryan,Mumbai,19.08,72.88
-Mari_1,mM1,mari1278,chm,Uralic,Mari,Shap,56.44,47.96
-Mari_2,mM2,mari1278,chm,Uralic,Mari,Shap,56.44,47.96
+Mari_1,mM1,mari1278,chm,Uralic,Volgaic,Shap,56.44,47.96
+Mari_2,mM2,mari1278,chm,Uralic,Volgaic,Shap,56.44,47.96
 Norwegian,Nor,norw1258,nor,IE,Germanic,Oslo,59.91,10.75
 Parma,PR,cent1959,egl,IE,Romance,Parma,44.8,10.32
 Pashto,Pas,pash1269,pus,IE,Iranian,Khyber Pass,34.09,71.16
@@ -62,8 +62,8 @@ Tamil,Ta,tami1289,tam,Dravidian ,-,Madras ,13.08,80.27
 Telugu,Te,telu1262,tel,Dravidian,-,Hyderabad,17.39,78.49
 Teramano,Ter,neap1235,nap,IE,Romance,Teramo,42.66,13.7
 Turkish,Tur,nucl1301,tur,Turkic,Oghuz,Ankara,39.93,32.86
-Udmurt_1,Ud1,udmu1245,udm,Uralic,Permian,Chur,57.07,53.03
-Udmurt_2,Ud2,udmu1245,udm,Uralic,Permian,Chur,57.07,53.03
+Udmurt_1,Ud1,udmu1245,udm,Uralic,Permic,Chur,57.07,53.03
+Udmurt_2,Ud2,udmu1245,udm,Uralic,Permic,Chur,57.07,53.03
 Uzbek,Uz,uzbe1247,uzb,Turkic,Turkestan Turkic,Tashkent,41.3,69.24
 Welsh,Wel,wels1247,cym,IE,Celtic,Cardiff,51.48,-3.18
 Yakut,Ya,yaku1245,sah,Turkic,N Siberian Turkic,Jakutsk,62.04,129.68
